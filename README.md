@@ -12,10 +12,10 @@ Mam Amna Awan.
 CanCare Connect is a web app that helps cancer patients and caregivers in Pakistan find
 verified hospitals, check what machinery/equipment is available where, get a rough idea of
 treatment costs, look up verified doctors, and browse financial aid programs they might be
-eligible for. There's also a login system with different roles — patients, doctors, hospital
+eligible for. There's also a login system with different roles - patients, doctors, hospital
 representatives, and an admin who verifies accounts and manages the data.
 
-It's a frontend-only project for this course — there's no real server or database. All the
+It's a frontend-only project for this course, there's no real server or database. All the
 data (accounts, hospitals, doctors, cost records, aid programs) is stored in the browser's
 localStorage and gets seeded automatically the first time you open the site.
 
@@ -25,7 +25,7 @@ https://<your-github-username>.github.io/CanCare-Connect/
 
 ## How to run it
 
-Just open `index.html` in a browser (Chrome works best) — double-clicking the file is enough,
+Just open `index.html` in a browser (Chrome works best) by double-clicking the file is enough,
 no server, installation or build step needed.
 
 ## Demo accounts
